@@ -11,6 +11,11 @@
 - [Data Lemur - SQL Interview Questions](https://datalemur.com/questions)
 - [SQL queries](sql/sql-queries.sql)
 
+### HIVE
+- [Internal Table VS External Table]()
+- [Partition - Static Partitioning VS Dynamic Partitioning]()
+- [Bucketing - Partitioning VS Bucketing]()
+
 ### Spark Architecture
 
 - [Spark Developer Certification - Comprehensive Study Guide](https://rakirahman.blob.core.windows.net/public/notebooks/Spark-Developer-Certification-Study-Guide.html)
